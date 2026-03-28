@@ -1,0 +1,136 @@
+{
+  "generated_at_utc": "2026-03-28T08:23:11Z",
+  "branch": "work",
+  "head_commit": "30d242b8ed333daf6cbe4631c73820f46b8e3639",
+  "total_files_excluding_generated_dirs": 810,
+  "top_extensions": [
+    [
+      ".java",
+      612
+    ],
+    [
+      ".adoc",
+      84
+    ],
+    [
+      ".yml",
+      20
+    ],
+    [
+      ".properties",
+      17
+    ],
+    [
+      "<noext>",
+      13
+    ],
+    [
+      ".kt",
+      13
+    ],
+    [
+      ".xml",
+      13
+    ],
+    [
+      ".gradle",
+      9
+    ],
+    [
+      ".jar",
+      7
+    ],
+    [
+      ".md",
+      5
+    ],
+    [
+      ".txt",
+      4
+    ],
+    [
+      ".bat",
+      3
+    ],
+    [
+      ".factories",
+      2
+    ],
+    [
+      ".yaml",
+      2
+    ],
+    [
+      ".conf",
+      1
+    ],
+    [
+      ".html",
+      1
+    ],
+    [
+      ".json",
+      1
+    ],
+    [
+      ".py",
+      1
+    ],
+    [
+      ".cmd",
+      1
+    ],
+    [
+      ".testexecutionlistener",
+      1
+    ]
+  ],
+  "modules": [
+    {
+      "name": "spring-kafka",
+      "file_count": 546,
+      "src_main_java": 347,
+      "src_test_java": 190
+    },
+    {
+      "name": "spring-kafka-bom",
+      "file_count": 1,
+      "src_main_java": 0,
+      "src_test_java": 0
+    },
+    {
+      "name": "spring-kafka-docs",
+      "file_count": 95,
+      "src_main_java": 10,
+      "src_test_java": 0
+    },
+    {
+      "name": "spring-kafka-test",
+      "file_count": 38,
+      "src_main_java": 24,
+      "src_test_java": 10
+    }
+  ],
+  "top_package_roots": [
+    [
+      "org.springframework.kafka",
+      381
+    ],
+    [
+      "com.example",
+      12
+    ],
+    [
+      "com.common",
+      8
+    ],
+    [
+      "com.example.sample07",
+      2
+    ],
+    [
+      "com.example.sample08",
+      1
+    ]
+  ]
+}
